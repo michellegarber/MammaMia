@@ -84,3 +84,4 @@ C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\ne
 C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.pdb
 C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.genruntimeconfig.cache
 C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\ref\MammaMia.dll
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.sourcelink.json
