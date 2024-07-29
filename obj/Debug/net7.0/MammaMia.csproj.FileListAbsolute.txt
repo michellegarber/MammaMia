@@ -1,0 +1,86 @@
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\bin\Debug\net7.0\appsettings.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\bin\Debug\net7.0\MammaMia.staticwebassets.runtime.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\bin\Debug\net7.0\MammaMia.exe
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\bin\Debug\net7.0\MammaMia.deps.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\bin\Debug\net7.0\MammaMia.runtimeconfig.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\bin\Debug\net7.0\MammaMia.dll
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\bin\Debug\net7.0\MammaMia.pdb
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\MammaMia.csproj.AssemblyReference.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\MammaMia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\MammaMia.AssemblyInfoInputs.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\MammaMia.AssemblyInfo.cs
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\MammaMia.csproj.CoreCompileInputs.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\MammaMia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\MammaMia.RazorAssemblyInfo.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\MammaMia.RazorAssemblyInfo.cs
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\staticwebassets\msbuild.MammaMia.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\staticwebassets\msbuild.build.MammaMia.props
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MammaMia.props
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MammaMia.props
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\scopedcss\bundle\MammaMia.styles.css
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\MammaMia.dll
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\refint\MammaMia.dll
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\MammaMia.pdb
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\MammaMia.genruntimeconfig.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\programacion\MAMMAMIA\MammaMia\obj\Debug\net7.0\ref\MammaMia.dll
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\bin\Debug\net7.0\appsettings.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\bin\Debug\net7.0\MammaMia.staticwebassets.runtime.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\bin\Debug\net7.0\MammaMia.exe
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\bin\Debug\net7.0\MammaMia.deps.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\bin\Debug\net7.0\MammaMia.runtimeconfig.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\bin\Debug\net7.0\MammaMia.dll
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\bin\Debug\net7.0\MammaMia.pdb
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\MammaMia.csproj.AssemblyReference.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\MammaMia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\MammaMia.AssemblyInfoInputs.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\MammaMia.AssemblyInfo.cs
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\MammaMia.csproj.CoreCompileInputs.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\MammaMia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\MammaMia.RazorAssemblyInfo.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\MammaMia.RazorAssemblyInfo.cs
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\staticwebassets\msbuild.MammaMia.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\staticwebassets\msbuild.build.MammaMia.props
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MammaMia.props
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MammaMia.props
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\scopedcss\bundle\MammaMia.styles.css
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\MammaMia.dll
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\refint\MammaMia.dll
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\MammaMia.pdb
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\MammaMia.genruntimeconfig.cache
+C:\Users\Michelle Garber\OneDrive\Escritorio\ORT\MammaMia\obj\Debug\net7.0\ref\MammaMia.dll
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\bin\Debug\net7.0\appsettings.json
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\bin\Debug\net7.0\MammaMia.staticwebassets.runtime.json
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\bin\Debug\net7.0\MammaMia.exe
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\bin\Debug\net7.0\MammaMia.deps.json
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\bin\Debug\net7.0\MammaMia.runtimeconfig.json
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\bin\Debug\net7.0\MammaMia.dll
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\bin\Debug\net7.0\MammaMia.pdb
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.AssemblyInfoInputs.cache
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.AssemblyInfo.cs
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.csproj.CoreCompileInputs.cache
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.RazorAssemblyInfo.cache
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.RazorAssemblyInfo.cs
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\staticwebassets\msbuild.MammaMia.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\staticwebassets\msbuild.build.MammaMia.props
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MammaMia.props
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MammaMia.props
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\scopedcss\bundle\MammaMia.styles.css
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.dll
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\refint\MammaMia.dll
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.pdb
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.genruntimeconfig.cache
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\ref\MammaMia.dll

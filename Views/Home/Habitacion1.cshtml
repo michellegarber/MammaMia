@@ -1,0 +1,68 @@
+@{
+    ViewData["Title"] = "Habitacion 1";
+}
+<header>
+<div class="card text-bg-info mb-3" style="max-width: 18rem;">
+  <div class="card-header"><h1>¡Atrapado entre canciones!</h1></div>
+  <div class="card-body">
+    <p class="card-text" class="fw-bold">Bienvenido a la primer sala, en esta tendras que encontrar el codigo secreto escondido en las canciones de "Mamma Mia". 
+    Cada melodía es una pista, y cada letra guarda un fragmento del enigma que deberás resolver. 
+    Tu misión es analizar atentamente cada canción, descifrar sus mensajes ocultos y recolectar las claves necesarias para formar el código final. 
+    Con este codigo descubriras un posible papá. <b>IMPORTANTE: en cada imagen les va a dar un número, para la clave final unanlos!</b></p>
+    
+  </div>    
+</header>
+<body>
+    
+
+ 
+
+<section>
+    <div>
+    <h3>Canción 1</h3>
+    <p>Te la digo y no la sabes, te la vuelvo a repetir, te la digo 3 veces y no la sabes decir.<p>
+    <img src="/img/1.jpg" alt="cancion1">
+    </div>
+
+    <div>
+    <h3>Canción 2</h3>
+    <p>Desde el lunes hasta el viernes, soy la última en llegar, el sábado soy la primera y el domingo a descansar.<p>
+    <img src="/img/2.jpg" alt="cancion2">
+    </div>
+
+    <div>
+    <h3>Canción 3</h3>
+    <p>La tiene el tigre pero no el león dos veces el perro y una el ratón.<p>
+    <img src="/img/3.jpg" alt="cancion3">
+    </div>
+
+    <div>
+    <h3>Canción 4</h3>
+    <p>¿Qué se dice una vez en un minuto y dos veces en un momento?<p>
+    <img src="/img/4.jpg" alt="cancion4">
+    </div>
+
+    <div>
+    <h3>Canción 5</h3>
+    <p>En el medio del mar está, en el mundo no tiene cabida, es la primera en el amor y la última en la vida. ¿Qué es?<p>
+    <img src="/img/5.jpg" alt="cancion4">
+    </div>
+</section>
+
+<form Action = '@Url.Action("Habitacion")'>
+<label for = "fmame">Escribí la clave<label><br>
+<input type = "text" id = "clave" name = "clave"><br>
+<input type = "submit" value = "Enviar"><br>
+<input type = "hidden" id= "sala" name = "sala" value = "1"><br>
+<h1>@ViewBag.Error</h1>
+</form>
+
+<div>
+<h3>Pistas<h3>
+<button onclick= "alert('Pista 1: Al leer el acertijo te va a dar la letra a buscar en la canción')">Pista 1</button>
+<button onclick= "alert('Pista 2: Conta cuantas veces aparece la letra en la canción')">Pista 2</button>
+</div>
+</body>
+
+
+

@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "Habitacion 3";
+}
+<header>
+<div>
+<p>¡Felicitaciones, pasaste a la siguiente habitación!</p>
+<p>Has descubierto a otro de los padres posibles de Sophie: Sam Carmichael. En el pasado, Sam y Donna tuvieron un romance apasionado cuando eran jóvenes, pero se separaron abruptamente y Sam se fue, dejando a Donna con el corazón roto. Esta separación fue dolorosa para ambos, y Sam nunca olvidó a Donna, aunque ella intentó seguir adelante y criar a su hija sola.</p>
+<h6>Sam puede ser candidato a ser padre de Sophie ya que tuvo una relación de mucha conexión emocional con Donna.</h6>
+<img src="/img/sam.jpg" alt="sam">
+</div>
+</header>
+<div>
+    <h1>Griegos.</h1>
+    <p>Descubrí la clave a partir de la emocionante historia de Mamma Mia!</p>
+</div>
+
+<main>
+<div class = "Back"></div>
+</main>
+<form Action = '@Url.Action("Habitacion")'>
+<label for = "fmame">Escribí la clave<label><br>
+<input type = "text" id = "clave" name = "clave"><br>
+<input type = "submit" value = "Enviar"><br>
+<input type = "hidden" id= "sala" name = "sala" value = "3"><br>
+<h1>@ViewBag.Error</h1>
+</form>
+<div>
+<h3>Pistas<h3>
+<button onclick= "alert('Pista 1: La clave se compone de las letras puestas en negrita')">Pista 1</button>
+<button onclick= "alert('Pista 2: Tenes que ordenar las letras en negrita para que formen la clave')">Pista 2</button>
+<button onclick= "alert('Pista 3: La clave es el nombre de una diosa griega')">Pista 3</button>
+</div>

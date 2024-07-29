@@ -1,8 +1,30 @@
 ﻿@{
     ViewData["Title"] = "Index";
 }
+<header class = "IndexHeader">
+    
+        <nav>
+            <a href = '@Url.Action("Tutorial")'> Tutorial </a> 
+        </nav>
+            <img src="/img/logo.png" alt="logo">
+        <nav>
+            <a href = '@Url.Action("Inicio")'> Inicio </a>
+        </nav>
+</header>
+<body>
 
-<div>
-    <h1>Index</h1>
-    <p>Bienvenidos al sitio web de NombreProyecto</p>
+<audio controls autoplay>
+<source src ="~/honey.mp3">
+</audio>
+
+<div class = "carrusel">
+    <h1>Mamma Mia: Sala de Escape</h1>
+    
+    <img src="/img/grecia.jpg" alt="grecia">
+    <img src="/img/cancion.jpg" alt="cancion">
+    <img src="/img/griego.jpg" alt="griego">
+    <img src="/img/foto.jpg" alt="foto">
+    <img src="/img/sophiedonna.jpg" alt="sd">
+    <img src="/img/dads.jpg" alt="dads">
 </div>
+</body>

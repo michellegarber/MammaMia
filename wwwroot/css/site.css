@@ -2,19 +2,153 @@ html {
   font-size: 14px;
   min-height: 100%;
 }
+.Intro {
+  background-color:#68d3e8;
 
+}
 @media (min-width: 768px) {
   html {
     font-size: 16px;
   }
+}
+*{
+ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  
+}
+header{
+  display:flex;
+  float: left;
+  justify-content: left;
+  align-items: left;
+  width: 100%;
+  height: 100%;
+  background-color: #03AED2;
+  flex-direction: column;
+}
+
+header div{
+  display: flex;
+    justify-content: left;
+   flex-direction: column;
+    height: auto;
+    float: left;
+    align-items: left;
+}
+header div img{
+  height: 30%;
+  width: 30%;
+}
+.IndexHeader img{
+  width: 30%;
+  height: auto;
+}
+.IndexHeader{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.fotos{
+  background-color: rgb(114, 6, 255);
+}
+.fotos img{
+  float: inline-end;
+  margin:4%;
+}
+body{
+  background-color:rgba(250, 235, 215, 0.74);
+}
+.carrusel img {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  height: 300px;
+  width: auto;
+}
+.Back{
+  background-image: url("../img/servicios.jpg");
+  height: 1075px;
+}
+.Fondo{
+  background-image: url("../img/portada.jpg");
+  height: 1000px;
+  width:2500px;
+  background-repeat: no-repeat;
+}
+.card-img-top{
+  width: 80%;
 }
 
 body {
   margin: 10px;
   padding: 10px;
 }
+main{
+  clear: both;
+}
 
+.IndexHeader nav{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  
+}
+.IndexHeader nav a{
+  font-size:xx-large;
+  color:black;
+  text-decoration: none;
+  margin-right:25px;
+  margin-left: 50px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+header img{
+  height: 100px;
+  width: auto;
+}
+ button{
+  font-size: xx-large;
+  background-color: #68d3e8;
+  border-radius: 5px;
+  font-weight: bold;
+}
+button a{
+  color:azure;
+}
+.card-header{
+  text-decoration: wavy;
+  width: 1300px;
 
+}
+.card-body{
+  width: 1300px;
+
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px; 
+}
+
+.image-row {
+  display: flex;
+  margin: 10px;
+}
+img{
+ width: 1000px;
+ height: auto;
+}
+.Fondo a{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 50px;
+}
+.CuatroFotos {
+width:100%;
+height: auto;
+}
 footer {
   margin-top: 10px;
   padding: 10px;

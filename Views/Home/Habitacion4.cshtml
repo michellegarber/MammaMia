@@ -1,0 +1,40 @@
+@{
+    ViewData["Title"] = "Habitacion 4";
+}
+<header>
+<div>
+    <p>¡Felicitaciones, pasaste a la ultima habitación!</p>
+    <h1>El es Bill ¿Sera el padre?</h1>
+    <img src="/img/bill.jpg" alt="bill">
+    <p>Has descubierto uno de los padres posibles de Sophie: Bill Austin. Es un aventurero y escritor australiano, conocido por su carácter despreocupado y su espíritu libre. Su relación con Donna Sheridan, la madre de Sophie, es compleja; aunque tuvieron un romance en el pasado, se separaron antes de que Donna supiera que estaba embarazada. Bill y Donna tuvieron una conexión especial, pero sus vidas siguieron caminos diferentes. A lo largo de la historia, Bill regresa para descubrir el impacto que tuvo en la vida de Donna y en la de Sophie.</p>
+    <h6>Bill es un candidato para ser el padre de Sophie debido a algunas similitudes notables entre ellos. Ambos comparten un espíritu aventurero y una afinidad por la música, lo que sugiere una posible conexión genética y de intereses. Aunque el misterio no está resuelto, estas características comunes podrían indicar que Bill tiene un vínculo más cercano con Sophie.</h6>
+    
+</div>
+    
+</header>
+
+
+<body>
+   <div class="card text-bg-info mb-3" style="max-width: 18rem;">
+  <div class="card-header"><h1>Ahora si: Estás por descubrir al Padre </h1></div>
+  <div class="card-body">
+    <p class="card-text" class="fw-bold">En esta sala tendras que encontrar el codigo secreto que esconde esta frase. Con este codigo descubriras un posible papá.</p>
+  </div> 
+    <img src="/img/respuesta.jpg" alt="abc">
+    <img src="/img/abecedario.jpg" alt="abc">
+
+</body>
+<form Action = '@Url.Action("Victoria")'>
+<label for = "fmame">Escribí la clave<label><br>
+<input type = "text" id = "clave" name = "clave"><br>
+<input type = "submit" value = "Enviar"><br>
+<input type = "hidden" id= "sala" name = "sala" value = "4"><br>
+<h1>@ViewBag.Error</h1>
+</form>
+<div>
+
+<h3>Pistas<h3>
+<button onclick= "alert('Pista 1: Las letras las descubriras con el diccionario de formas')">Pista 1</button>
+<button onclick= "alert('Pista 2: La clave es una sola palabra de la oracion')">Pista 2</button>
+
+</div>

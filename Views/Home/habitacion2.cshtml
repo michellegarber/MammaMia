@@ -1,0 +1,47 @@
+
+@{
+    ViewData["Title"] = "Habitacion 2";
+}
+<header>
+
+<div>
+    <p>¡Felicitaciones, pasaste a la siguiente habitación!</p>
+    <h1>El es Harry ¿Sera el padre?</h1>
+    <img src="/img/harry.jpg" alt="harry">
+    <p>Has descubierto uno de los padres posibles de Sophie: Harry Bright. Durante sus días de juventud aventurera, Harry y Donna compartieron un romance que fue tanto intenso como apasionado, pero eventualmente tomaron caminos separados. Harry siempre ha tenido sentimientos por Donna y aún guarda un cariño especial hacia ella, a pesar de las circunstancias que los llevaron a separarse.</p>
+    <h6>Harry puede ser candidato a ser padre de Sophie ya que esta comparte algunas características y habilidades con Harry, como su amor por la literatura y la poesía, lo cual podría sugerir una conexión genética y de intereses.</h6>
+    
+</div>
+
+</header>
+<body>
+<div class="card text-bg-info mb-3" style="max-width: 18rem;">
+  <div class="card-header"><h1>¡Encontrá la palabra!</h1></div>
+  <div class="card-body">
+    <p class="card-text" class="fw-bold">En esta sala tendras que encontrar el codigo secreto que esconden las diferentes fotos. Con este codigo descubriras un posible papá.</p>
+  </div> 
+
+<div class = "CuatroFotos">
+  <img src="/img/g1.jpg"  alt="1">
+  <img src="/img/p2.jpg"  alt="2">
+  <img src="/img/c3.jpg"  alt="3">
+  <img src="/img/a4.jpg"  alt="4">
+  <img src="/img/i5.jpg"  alt="5">
+
+</div>
+
+<form Action = '@Url.Action("Habitacion")'>
+<label for = "fmame">Escribí la clave<label><br>
+<input type = "text" id = "clave" name = "clave"><br>
+<input type = "submit" value = "Enviar"><br>
+<input type = "hidden" id= "sala" name = "sala" value = "2"><br>
+<h1>@ViewBag.Error</h1>
+</form>
+
+<div>
+<h3>Pistas<h3>
+<button onclick= "alert('Pista 1: La clave se compone de las iniciales de las 5 palabras')">Pista 1</button>
+<button onclick= "alert('Pista 2: Escribir la clave en minuscula')">Pista 2</button>
+<button onclick= "alert('Pista 3: La union de estas letras no forma una palabra')">Pista 3</button>
+</div>
+</body>

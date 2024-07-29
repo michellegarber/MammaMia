@@ -1,0 +1,217 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\azul1.jpg",
+      "PackagePath": "staticwebassets\\img\\azul1.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\azul2.jpg",
+      "PackagePath": "staticwebassets\\img\\azul2.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\azul3.jpg",
+      "PackagePath": "staticwebassets\\img\\azul3.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\azul4.jpg",
+      "PackagePath": "staticwebassets\\img\\azul4.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\cancion.jpg",
+      "PackagePath": "staticwebassets\\img\\cancion.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\casamiento1.jpg",
+      "PackagePath": "staticwebassets\\img\\casamiento1.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\casamiento2.jpg",
+      "PackagePath": "staticwebassets\\img\\casamiento2.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\casamiento3.jpg",
+      "PackagePath": "staticwebassets\\img\\casamiento3.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\casamiento4.jpg",
+      "PackagePath": "staticwebassets\\img\\casamiento4.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\diarioAdentro.png",
+      "PackagePath": "staticwebassets\\img\\diarioAdentro.png"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\grecia.jpg",
+      "PackagePath": "staticwebassets\\img\\grecia.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\grecia1.jpg",
+      "PackagePath": "staticwebassets\\img\\grecia1.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\grecia2.jpg",
+      "PackagePath": "staticwebassets\\img\\grecia2.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\grecia3.jpg",
+      "PackagePath": "staticwebassets\\img\\grecia3.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\grecia4.jpg",
+      "PackagePath": "staticwebassets\\img\\grecia4.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\griego.jpg",
+      "PackagePath": "staticwebassets\\img\\griego.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\isla1.jpg",
+      "PackagePath": "staticwebassets\\img\\isla1.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\isla2.jpg",
+      "PackagePath": "staticwebassets\\img\\isla2.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\isla3.jpg",
+      "PackagePath": "staticwebassets\\img\\isla3.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\isla4.jpg",
+      "PackagePath": "staticwebassets\\img\\isla4.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\playa1.jpg",
+      "PackagePath": "staticwebassets\\img\\playa1.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\playa2.jpg",
+      "PackagePath": "staticwebassets\\img\\playa2.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\playa3.jpg",
+      "PackagePath": "staticwebassets\\img\\playa3.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\playa4.jpg",
+      "PackagePath": "staticwebassets\\img\\playa4.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\portada.jpg",
+      "PackagePath": "staticwebassets\\img\\portada.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\servicios.jpg",
+      "PackagePath": "staticwebassets\\img\\servicios.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\img\\tutoDiario.jpg",
+      "PackagePath": "staticwebassets\\img\\tutoDiario.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\programacion\\BIM2\\MAMMAMIA\\MammaMia\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MammaMia.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MammaMia.props",
+      "PackagePath": "build\\MammaMia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MammaMia.props",
+      "PackagePath": "buildMultiTargeting\\MammaMia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MammaMia.props",
+      "PackagePath": "buildTransitive\\MammaMia.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
