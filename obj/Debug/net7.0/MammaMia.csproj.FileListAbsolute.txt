@@ -84,6 +84,7 @@ C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\ne
 C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.pdb
 C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.genruntimeconfig.cache
 C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\ref\MammaMia.dll
+<<<<<<< HEAD
 Z:\2024\programacion\BIM2\SalaDeEscape_Garber_Szwarcbort\MammaMia\bin\Debug\net7.0\appsettings.Development.json
 Z:\2024\programacion\BIM2\SalaDeEscape_Garber_Szwarcbort\MammaMia\bin\Debug\net7.0\appsettings.json
 Z:\2024\programacion\BIM2\SalaDeEscape_Garber_Szwarcbort\MammaMia\bin\Debug\net7.0\MammaMia.staticwebassets.runtime.json
@@ -113,3 +114,6 @@ Z:\2024\programacion\BIM2\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7
 Z:\2024\programacion\BIM2\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.pdb
 Z:\2024\programacion\BIM2\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.genruntimeconfig.cache
 Z:\2024\programacion\BIM2\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\ref\MammaMia.dll
+=======
+C:\Users\48521612\Downloads\SalaDeEscape_Garber_Szwarcbort\MammaMia\obj\Debug\net7.0\MammaMia.sourcelink.json
+>>>>>>> 9cbb43468e0ffd7f725fc73036eb753fe6387c2f
