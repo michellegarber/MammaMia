@@ -2,7 +2,7 @@
     ViewData["Title"] = "Habitacion 1";
 }
 <header>
-<div class="card text-bg-info mb-3" style="max-width: 18rem;">
+<div class="card text-bg-info mb-3">
   <div class="card-header"><h1>¡Atrapado entre canciones!</h1></div>
   <div class="card-body">
     <p class="card-text" class="fw-bold">Bienvenido a la primer sala, en esta tendras que encontrar el codigo secreto escondido en las canciones de "Mamma Mia". 
@@ -13,11 +13,10 @@
   </div>    
 </header>
 <body>
-    
-
- 
-
-<section>
+    <audio controls autoplay>
+<source src ="~/gimme.mp3">
+</audio>
+<section class = "center">
     <div>
     <h3>Canción 1</h3>
     <p>Te la digo y no la sabes, te la vuelvo a repetir, te la digo 3 veces y no la sabes decir.<p>
@@ -49,19 +48,20 @@
     </div>
 </section>
 
+<div class = "pistas">
+<button onclick= "alert('Pista 1: Al leer el acertijo te va a dar la letra a buscar en la canción')">Pista 1</button>
+<button onclick= "alert('Pista 2: Conta cuantas veces aparece la letra en la canción')">Pista 2</button>
+</div>
+
 <form Action = '@Url.Action("Habitacion")'>
-<label for = "fmame">Escribí la clave<label><br>
+<label for = "fmame"><b>Escribí la clave </b><label><br>
 <input type = "text" id = "clave" name = "clave"><br>
 <input type = "submit" value = "Enviar"><br>
 <input type = "hidden" id= "sala" name = "sala" value = "1"><br>
 <h1>@ViewBag.Error</h1>
 </form>
 
-<div>
-<h3>Pistas<h3>
-<button onclick= "alert('Pista 1: Al leer el acertijo te va a dar la letra a buscar en la canción')">Pista 1</button>
-<button onclick= "alert('Pista 2: Conta cuantas veces aparece la letra en la canción')">Pista 2</button>
-</div>
+
 </body>
 
 

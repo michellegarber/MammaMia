@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MammaMia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dff79ac965aa07610f43a2d66be7a01ec80f170")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49aaebc9b8843ee1b60c51a575cccd56ce94f010")]
 [assembly: System.Reflection.AssemblyProductAttribute("MammaMia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MammaMia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

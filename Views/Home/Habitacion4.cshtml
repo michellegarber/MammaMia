@@ -12,29 +12,29 @@
 </div>
     
 </header>
-
-
 <body>
-   <div class="card text-bg-info mb-3" style="max-width: 18rem;">
+<audio controls autoplay>
+<source src ="~/SlippingthroughMyFingers.mp3">
+</audio>
+   <div class="card text-bg-info mb-3" >
   <div class="card-header"><h1>Ahora si: Estás por descubrir al Padre </h1></div>
   <div class="card-body">
     <p class="card-text" class="fw-bold">En esta sala tendras que encontrar el codigo secreto que esconde esta frase. Con este codigo descubriras un posible papá.</p>
   </div> 
+  <div class = "center">
     <img src="/img/respuesta.jpg" alt="abc">
     <img src="/img/abecedario.jpg" alt="abc">
-
+  </div>
 </body>
+<div class = "pistas">
+<button onclick= "alert('Pista 1: Las letras las descubriras con el diccionario de formas')">Pista 1</button>
+<button onclick= "alert('Pista 2: La clave es una sola palabra de la oracion')">Pista 2</button>
+</div>
 <form Action = '@Url.Action("Victoria")'>
-<label for = "fmame">Escribí la clave<label><br>
+<label for = "fmame"><b>Escribí la clave </b><label><br>
 <input type = "text" id = "clave" name = "clave"><br>
 <input type = "submit" value = "Enviar"><br>
 <input type = "hidden" id= "sala" name = "sala" value = "4"><br>
 <h1>@ViewBag.Error</h1>
 </form>
-<div>
 
-<h3>Pistas<h3>
-<button onclick= "alert('Pista 1: Las letras las descubriras con el diccionario de formas')">Pista 1</button>
-<button onclick= "alert('Pista 2: La clave es una sola palabra de la oracion')">Pista 2</button>
-
-</div>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48521612\\Downloads\\SalaDeEscape_Garber_Szwarcbort\\MammaMia\\MammaMia.csproj": {}
+    "Z:\\2024\\programacion\\BIM2\\SalaDeEscape_Garber_Szwarcbort\\MammaMia\\MammaMia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48521612\\Downloads\\SalaDeEscape_Garber_Szwarcbort\\MammaMia\\MammaMia.csproj": {
+    "Z:\\2024\\programacion\\BIM2\\SalaDeEscape_Garber_Szwarcbort\\MammaMia\\MammaMia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48521612\\Downloads\\SalaDeEscape_Garber_Szwarcbort\\MammaMia\\MammaMia.csproj",
+        "projectUniqueName": "Z:\\2024\\programacion\\BIM2\\SalaDeEscape_Garber_Szwarcbort\\MammaMia\\MammaMia.csproj",
         "projectName": "MammaMia",
-        "projectPath": "C:\\Users\\48521612\\Downloads\\SalaDeEscape_Garber_Szwarcbort\\MammaMia\\MammaMia.csproj",
+        "projectPath": "Z:\\2024\\programacion\\BIM2\\SalaDeEscape_Garber_Szwarcbort\\MammaMia\\MammaMia.csproj",
         "packagesPath": "C:\\Users\\48521612\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48521612\\Downloads\\SalaDeEscape_Garber_Szwarcbort\\MammaMia\\obj\\",
+        "outputPath": "Z:\\2024\\programacion\\BIM2\\SalaDeEscape_Garber_Szwarcbort\\MammaMia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,19 +62,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
+              "version": "[7.0.18, 7.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.20, 7.0.20]"
+              "version": "[7.0.18, 7.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
+              "version": "[7.0.18, 7.0.18]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
+              "version": "[7.0.18, 7.0.18]"
             }
           ],
           "frameworkReferences": {
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
